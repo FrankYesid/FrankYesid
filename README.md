@@ -95,6 +95,13 @@
   </a>
 </p>
 
+<h2>Data Science Tools</h2>
+<p align="left">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rectangular-logo/rectangular-logo.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+</p>
+
 <h2>Databases</h2>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
