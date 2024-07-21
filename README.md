@@ -1,5 +1,11 @@
 <!-- <h1 align="center">Hi 👋, I'm Frank Yesid Z. C.</h1> -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frankyesid/frankyesid/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/frankyesid/frankyesid/master/waves.svg" width="100%" height="150">
+
+
 
 
 <h3 align="center">A backend developer passionate about Machine learning and innovation with AI.</h3>
