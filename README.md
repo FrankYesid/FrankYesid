@@ -98,7 +98,7 @@
 <h2>Data Science Tools</h2>
 <p align="left">
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/rectangular-logo/rectangular-logo.svg" alt="jupyter" width="40" height="40"/> 
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
   </a>
 </p>
 
