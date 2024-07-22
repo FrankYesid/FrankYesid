@@ -1,10 +1,8 @@
-
 <div style="width: 100%;">
   <img src="Imag/animate.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
-
 
 - 📫 How to reach me **fyzapatac@unal.edu.co**
 
@@ -129,12 +127,12 @@
     <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center"><a href="https://www.tublian.com/profile/FrankYesid?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/FrankYesid?type=with_score"></a></p>
+<!-- <p align="center">
+  <a href="https://www.tublian.com/profile/FrankYesid?ss=true">
+    <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/FrankYesid?type=with_score">
+  </a>
+</p> -->
 
-
-<div style="width: 100%;">
-  <img src="Imag/dibujo.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15">
