@@ -134,7 +134,7 @@
 </p> -->
 
 <div style="width: 100%;">
-  <img src="Imag/prueba.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="Imag/prueba.html" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <p align="center">
