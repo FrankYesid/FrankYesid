@@ -8,9 +8,9 @@
 
 <!-- <h3 align="center">A backend developer passionate about Machine learning and innovation with AI.</h3> -->
 
-<!-- <div style="width: 100%;">
+<div style="width: 100%;">
   <img src="logo.svg" style="width: 100%;" alt="Click to see the source">
-</div> -->
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
