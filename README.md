@@ -131,7 +131,10 @@
 
 <p align="center"><a href="https://www.tublian.com/profile/FrankYesid?ss=true"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/FrankYesid?type=with_score"></a></p>
 
-#
+
+<div style="width: 100%;">
+  <img src="Imag/dibujo.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15">
