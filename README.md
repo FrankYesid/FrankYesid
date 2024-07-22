@@ -1,6 +1,6 @@
 
 <div style="width: 100%;">
-  <img src="animate.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="Imag/animate.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
