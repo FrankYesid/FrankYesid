@@ -61,7 +61,10 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="lightroom" width="40" height="40"/> 
   </a>
 </p>
 
@@ -120,7 +123,6 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
 </p>
-
 
 <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
