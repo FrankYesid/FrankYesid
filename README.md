@@ -5,10 +5,7 @@
 </p>	
 <!-- <img src="https://raw.githubusercontent.com/frankyesid/frankyesid/master/waves.svg" width="100%" height="150"> -->
 
-
-
-
-<h3 align="center">A backend developer passionate about Machine learning and innovation with AI.</h3>
+<!-- <h3 align="center">A backend developer passionate about Machine learning and innovation with AI.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
