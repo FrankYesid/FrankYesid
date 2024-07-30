@@ -34,6 +34,9 @@
     color: ##0e6fb0; /* Color del texto */
     text-shadow: 
         4px 4px 0 #005d9c,  /* Sombra de alto relieve */
+        <!-- -1px -1px 0 #666,  -->
+        <!-- 1px -1px 0 #666,  -->
+        <!-- -1px 1px 0 #666, -->
         0 0 15px rgba(0, 0, 0, 0.5); /* Sombra adicional para un efecto de relieve */
       }
       
@@ -42,20 +45,31 @@
       --color-primary: #e73c7e;
       --color-secondary: #23a6d5;
       --color-tertiary: #ffff;
+
+      <!-- background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary)); -->
+      <!-- background-size: 400% 400%; -->
+      <!-- animation: gradient 15s ease infinite; -->
+
       width: 100%;
       height: 150px;
+
       display: flex;
       justify-content: center;
       align-items: center;
+      color: white;
+
+      <!-- 'Arial', sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; -->
       position: relative;
       overflow: hidden;
     }
 
-    <!-- .hi { -->
-      <!-- animation: hi 1.5s linear -0.5s infinite; -->
-      <!-- display: inline-block; -->
-      <!-- transform-origin: 70% 70%; -->
-      <!-- } -->
+
+
+    .hi {
+      animation: hi 1.5s linear -0.5s infinite;
+      display: inline-block;
+      transform-origin: 70% 70%;
+      }
     
 
     @media (prefers-color-scheme: light) {
@@ -77,7 +91,8 @@
         animation: none;
       }
     }
-
+  </style>
+  <style>
     .waves {
       position: absolute;
       bottom: 0;
@@ -124,14 +139,19 @@
       </div>
   </foreignObject>
 
-    <!-- <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto"> -->
-  <defs>
-    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-  </defs>
-  <g class="parallax">
-    <use xlink:href="#gentle-wave" x="48" y="1" fill="rgba(160, 149, 202, 0.4)" />
-    <use xlink:href="#gentle-wave" x="48" y="2" fill="rgba(160, 149, 202, 0.3)" />
-    <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(78, 12, 165, 0.1)" />
-    <use xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
-  </g>
-</svg>  
+  <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto">
+    <defs>
+      <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+    </defs>
+    <g class="parallax">
+      <!-- <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(149, 202, 202, 0.4)" />
+      <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(149, 202, 202, 0.3)" />
+      <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(12, 164, 165, 0.1)" />
+      <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(12, 164, 165, 0.2)" /> -->
+      <use xlink:href="#gentle-wave" x="18" y="0" fill="rgba(160, 149, 202, 0.4)" />
+      <use xlink:href="#gentle-wave" x="28" y="3" fill="rgba(160, 149, 202, 0.3)" />
+      <use xlink:href="#gentle-wave" x="38" y="5" fill="rgba(78, 12, 165, 0.1)" />
+      <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(78, 12, 165, 0.2)" />
+    </g>
+  </svg>  
+</svg>
