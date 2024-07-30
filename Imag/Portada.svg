@@ -1,6 +1,6 @@
 <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="20%" stop-color="rgba(0,0,139,0.7)">
         <animate attributeName="stop-color" values="rgba(0,0,139,0.7); rgba(0,0,205,0.7); rgba(25,25,112,0.7); rgba(0,0,139,0.7)" dur="8s" repeatCount="indefinite" />
       </stop>
