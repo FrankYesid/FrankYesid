@@ -54,7 +54,7 @@
         --color-tertiary: #f6f645;
       }
     }
-
+  
     @media (prefers-reduced-motion) {
       .container {
         animation: none;
