@@ -1,0 +1,173 @@
+<svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">
+      <stop offset="20%" stop-color="rgba(0,0,139,0.7)">
+        <animate attributeName="stop-color" values="rgba(0,0,139,0.7); rgba(0,0,205,0.7); rgba(25,25,112,0.7); rgba(0,0,139,0.7)" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="rgba(25,25,112,0.7)">
+        <animate attributeName="stop-color" values="rgba(25,25,112,0.7); rgba(0,0,205,0.7); rgba(0,0,139,0.7); rgba(25,25,112,0.7)" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0%" width="100%" height="100%" fill="url(#animatedGradient)" />
+
+  <style>
+    @keyframes hi {
+      0% { transform: rotate(0.0deg); }
+      10% { transform: rotate(14.0deg); }
+      20% { transform: rotate(-8.0deg); }
+      30% { transform: rotate(14.0deg); }
+      40% { transform: rotate(-4.0deg); }
+      50% { transform: rotate(10.0deg); }
+      60% { transform: rotate(0.0deg); }
+      100% { transform: rotate(0.0deg); }
+    }
+
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .container h1 {   
+    <!-- font-family: "Georgia"; -->
+    font-family: "Dancing Script";
+    <!-- font-family: "cursive"; -->
+    <!-- font-family: 'Great Vibes', cursive; -->
+    <!-- font-family: "Pacifico", cursive;  -->
+    <!-- font-family: "Edu AU VIC WA NT Hand", cursive; -->
+    <!-- font-family: "Playpen Sans", cursive; -->
+    color: ##0e6fb0; /* Color del texto */
+    text-shadow: 
+        4px 4px 0 #005d9c,  /* Sombra de alto relieve */
+        <!-- -1px -1px 0 #666,  -->
+        <!-- 1px -1px 0 #666,  -->
+        <!-- -1px 1px 0 #666, -->
+        0 0 15px rgba(0, 0, 0, 0.5); /* Sombra adicional para un efecto de relieve */
+      }
+      
+    .container {
+      --color-main: #5452ee;
+      --color-primary: #e73c7e;
+      --color-secondary: #23a6d5;
+      --color-tertiary: #ffff;
+
+      <!-- background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary)); -->
+      <!-- background-size: 400% 400%; -->
+      <!-- animation: gradient 15s ease infinite; -->
+
+      width: 100%;
+      height: 150px;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+
+      <!-- font-family: "Playwrite DK Loopet", cursive;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal; -->
+      <!-- font-family: chancery; -->
+      <!-- font-family: 'Georgia', serif; -->
+      <!-- font-family:  'Lobster', cursive; -->
+      <!-- font-family: 'Playfair Display', serif; -->
+      <!-- 'Arial', sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; -->
+      position: relative;
+      overflow: hidden;
+    }
+
+
+
+    .hi {
+      animation: hi 1.5s linear -0.5s infinite;
+      display: inline-block;
+      transform-origin: 70% 70%;
+    
+
+    @media (prefers-color-scheme: light) {
+      .container {
+        --color-main: #F15BB5;
+        --color-primary: #24b0ef;
+        --color-secondary: #4526f6;
+        --color-tertiary: #f6f645;
+      }
+    }
+
+    @media (prefers-reduced-motion) {
+      .container {
+        animation: none;
+
+      }
+
+      .hi {
+        animation: none;
+      }
+    }
+  </style>
+  <style>
+    .waves {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 100px;
+      min-height: 50px;
+      max-height: 100px;
+      border-radius: 25px;
+    }
+
+    .parallax > use {
+      animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
+    }
+
+    .parallax > use:nth-child(1) {
+      animation-delay: -2s;
+      animation-duration: 7s;
+    }
+
+    .parallax > use:nth-child(2) {
+      animation-delay: -3s;
+      animation-duration: 10s;
+    }
+
+    .parallax > use:nth-child(3) {
+      animation-delay: -4s;
+      animation-duration: 13s;
+    }
+
+    .parallax > use:nth-child(4) {
+      animation-delay: -5s;
+      animation-duration: 20s;
+    }
+
+    @keyframes move-forever {
+      0% { transform: translate3d(-90px, 0, 0); }
+      100% { transform: translate3d(85px, 0, 0); }
+    }
+  </style>  
+
+  <foreignObject width="100%" height="100%">
+     <div class="container">
+        <h1>Hi there, my name is Frank <div class="hi">👋</div></h1>
+      </div>
+  </foreignObject>
+
+  <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto">
+    <defs>
+      <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+    </defs>
+    <g class="parallax">
+      <!-- <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(149, 202, 202, 0.4)" />
+      <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(149, 202, 202, 0.3)" />
+      <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(12, 164, 165, 0.1)" />
+      <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(12, 164, 165, 0.2)" /> -->
+      <use xlink:href="#gentle-wave" x="18" y="0" fill="rgba(160, 149, 202, 0.4)" />
+      <use xlink:href="#gentle-wave" x="28" y="3" fill="rgba(160, 149, 202, 0.3)" />
+      <use xlink:href="#gentle-wave" x="38" y="5" fill="rgba(78, 12, 165, 0.1)" />
+      <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(78, 12, 165, 0.2)" />
+      
+    </g>
+  </svg>
+
+  
+</svg>
