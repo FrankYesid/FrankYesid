@@ -102,9 +102,9 @@
   </style>
 
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
-      <h1>Hi, I'm Frank Yesid Z. C. <div class="hi">👋</div></h1>
-    </div>
+    <div class="container">
+        <h1>Hi there, my name is Frank <div class="hi">👋</div></h1>
+      </div>
   </foreignObject>
 
   <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto">
