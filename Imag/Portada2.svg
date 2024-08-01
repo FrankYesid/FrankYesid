@@ -1,9 +1,9 @@
 <svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
    <defs>  
-  <color id="azul-oscuro" value="#00008B" />  
-  <color id="azul-claro" value="#0000CD" />  
-  <color id="morado-oscuro" value="#191970" />  
-  <color id="morado-claro" value="#6633CC" />  
+  <color id="azul-oscuro" value="#212121 " />  
+  <color id="azul-claro" value="#2C3E50 " />  
+  <color id="morado-oscuro" value="#1A1D23 " />  
+  <color id="morado-claro" value="#343A40 " />  
   <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">  
     <stop offset="20%" stop-color="url(#azul-oscuro)">  
       <animate attributeName="stop-color" values="url(#azul-oscuro); url(#azul-claro); url(#morado-oscuro); url(#azul-oscuro)" dur="8s" repeatCount="indefinite" />  
