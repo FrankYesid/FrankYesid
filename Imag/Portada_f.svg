@@ -29,7 +29,24 @@
       100% { background-position: 0% 50%; }
     }
 
-  
+    .container {
+      --color-main: #5452ee;
+      --color-primary: #e73c7e;
+      --color-secondary: #23a6d5;
+      --color-tertiary: #ffff;
+
+      width: 100%;
+      height: 150px;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+
+      <!-- font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; -->
+      position: relative;
+      overflow: hidden;
+    }
 
     .container h1 {         
         font-family: "Dancing Script";
