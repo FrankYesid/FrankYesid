@@ -31,9 +31,9 @@
 
     .container h1 {   
     font-family: "Dancing Script";
-    color: ##0e6fb0; /* Color del texto */
+    color: ##fafafa; /* Color del texto */
     text-shadow: 
-        2px 2px 0 #fafafa,  /* Sombra de alto relieve */
+        2px 2px 0 #bfbfbf,  /* Sombra de alto relieve */
         0 0 15px rgba(255, 255, 255, 0.8); /* Sombra adicional para un efecto de relieve */
       }
       
@@ -116,6 +116,8 @@
       0% { transform: translate3d(-90px, 0, 0); }
       100% { transform: translate3d(85px, 0, 0); }
     }
+
+    
   </style>  
 
    <foreignObject width="100%" height="100%">
