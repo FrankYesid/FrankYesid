@@ -32,9 +32,9 @@
     .container h1 {   
     font-family: "Dancing Script";
     color: ##fafafa; 
-    <!-- text-shadow: 
+    text-shadow: 
         2px 2px 0 #bfbfbf,  
-        0 0 15px rgba(255, 255, 255, 0.8);  -->
+        0 0 15px rgba(255, 255, 255, 0.8); 
       }
       
    
@@ -60,9 +60,9 @@
 
       }
 
-      .hi {
+      <!-- .hi {
         animation: none;
-      }
+      } -->
     }
 
     .waves {
