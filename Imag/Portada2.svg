@@ -1,11 +1,11 @@
 <svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>  
   <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">  
-    <stop offset="20%" stop-color="rgba(0,0,69,0.7)">  
-      <animate attributeName="stop-color" values="rgba(0,0,69,0.7); rgba(0,0,139,0.7); rgba(25,0,51,0.7); rgba(0,0,69,0.7)" dur="8s" repeatCount="indefinite" />  
+    <stop offset="20%" stop-color="rgba(110, 110, 240,0.7)">  
+      <animate attributeName="stop-color" values="rgba(110, 110, 240,0.7); rgba(83, 83, 201,0.7); rgba(88, 0, 179,0.7); rgba(105, 105, 240,0.7)" dur="8s" repeatCount="indefinite" />  
     </stop>  
-    <stop offset="80%" stop-color="rgba(25,0,51,0.7)">  
-      <animate attributeName="stop-color" values="rgba(25,0,51,0.7); rgba(0,0,139,0.7); rgba(0,0,69,0.7); rgba(25,0,51,0.7)" dur="8s" repeatCount="indefinite" />  
+    <stop offset="50%" stop-color="rgba(88, 0, 179,0.7)">  
+      <animate attributeName="stop-color" values="rgba(88, 0, 179,0.7); rgba(83, 83, 201,0.7); rgba(105, 105, 240,0.7); rgba(88, 0, 179,0.7)" dur="8s" repeatCount="indefinite" />  
     </stop>  
   </linearGradient>  
 </defs>  
