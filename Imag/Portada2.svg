@@ -31,10 +31,10 @@
 
     .container h1 {   
     font-family: "Dancing Script";
-    color: ##fafafa; /* Color del texto */
-    text-shadow: 
-        2px 2px 0 #bfbfbf,  /* Sombra de alto relieve */
-        0 0 15px rgba(255, 255, 255, 0.8); /* Sombra adicional para un efecto de relieve */
+    color: ##fafafa; 
+    <!-- text-shadow: 
+        2px 2px 0 #bfbfbf,  
+        0 0 15px rgba(255, 255, 255, 0.8);  -->
       }
       
    
@@ -54,7 +54,16 @@
       }
     }
 
-   
+    @media (prefers-reduced-motion) {
+      .container {
+        animation: none;
+
+      }
+
+      .hi {
+        animation: none;
+      }
+    }
 
     .waves {
       position: absolute;
