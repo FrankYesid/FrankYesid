@@ -51,11 +51,11 @@
       overflow: hidden;
     }
 
-    <!-- .hi { -->
-      <!-- animation: hi 1.5s linear -0.5s infinite; -->
-      <!-- display: inline-block; -->
-      <!-- transform-origin: 70% 70%; -->
-      <!-- } -->
+    .hi {
+      animation: hi 1.5s linear -0.5s infinite;
+      display: inline-block;
+      transform-origin: 70% 70%;
+      }
     
 
     @media (prefers-color-scheme: light) {
