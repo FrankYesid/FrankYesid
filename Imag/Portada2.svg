@@ -4,7 +4,7 @@
     <stop offset="20%" stop-color="rgba(0,0,69,0.7)">  
       <animate attributeName="stop-color" values="rgba(0,0,69,0.7); rgba(0,0,139,0.7); rgba(25,0,51,0.7); rgba(0,0,69,0.7)" dur="8s" repeatCount="indefinite" />  
     </stop>  
-    <stop offset="100%" stop-color="rgba(25,0,51,0.7)">  
+    <stop offset="80%" stop-color="rgba(25,0,51,0.7)">  
       <animate attributeName="stop-color" values="rgba(25,0,51,0.7); rgba(0,0,139,0.7); rgba(0,0,69,0.7); rgba(25,0,51,0.7)" dur="8s" repeatCount="indefinite" />  
     </stop>  
   </linearGradient>  
