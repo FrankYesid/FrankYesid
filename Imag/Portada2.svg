@@ -1,18 +1,14 @@
 <svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-   <defs>  
-  <color id="azul-oscuro" value="#212121 " />  
-  <color id="azul-claro" value="#2C3E50 " />  
-  <color id="morado-oscuro" value="#1A1D23 " />  
-  <color id="morado-claro" value="#343A40 " />  
-  <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">  
-    <stop offset="20%" stop-color="url(#azul-oscuro)">  
-      <animate attributeName="stop-color" values="url(#azul-oscuro); url(#azul-claro); url(#morado-oscuro); url(#azul-oscuro)" dur="8s" repeatCount="indefinite" />  
-    </stop>  
-    <stop offset="100%" stop-color="url(#morado-oscuro)">  
-      <animate attributeName="stop-color" values="url(#morado-oscuro); url(#azul-claro); url(#azul-oscuro); url(#morado-oscuro)" dur="8s" repeatCount="indefinite" />  
-    </stop>  
-  </linearGradient>  
-</defs>  
+  <defs>
+    <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="80%" y2="80%">
+      <stop offset="20%" stop-color="rgba(0,0,139,0.7)">
+        <animate attributeName="stop-color" values="rgba(0,0,139,0.7); rgba(0,0,205,0.7); rgba(25,25,112,0.7); rgba(0,0,139,0.7)" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="rgba(25,25,112,0.7)">
+        <animate attributeName="stop-color" values="rgba(25,25,112,0.7); rgba(0,0,205,0.7); rgba(0,0,139,0.7); rgba(25,25,112,0.7)" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
   <rect x="0" y="0%" width="100%" height="100%" fill="url(#animatedGradient)" />
 
   <style>
