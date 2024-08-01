@@ -33,8 +33,8 @@
     font-family: "Dancing Script";
     color: ##0e6fb0; /* Color del texto */
     text-shadow: 
-        2px 2px 0 #005d9c,  /* Sombra de alto relieve */
-        0 0 15px rgba(255, 255, 255, 0.5); /* Sombra adicional para un efecto de relieve */
+        2px 2px 0 #fafafa,  /* Sombra de alto relieve */
+        0 0 15px rgba(255, 255, 255, 0.8); /* Sombra adicional para un efecto de relieve */
       }
       
     .container {
