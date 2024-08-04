@@ -1,7 +1,7 @@
 <!-- miSVGConFondo.svg -->
 <svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Incluir el GIF como imagen de fondo -->
-  <image href="fondo.gif" width="100%" height="150px"  preserveAspectRatio="none" />
+  <image href="giphy.gif" width="100%" height="150px"  preserveAspectRatio="none" />
 
   <style>
     @keyframes hi {
