@@ -1,0 +1,133 @@
+<!-- miSVGConFondo.svg -->
+<svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Incluir el GIF como imagen de fondo -->
+  <image href="fondo.gif" width="100%" height="150px"  preserveAspectRatio="none" />
+
+  <style>
+    @keyframes hi {
+      0% { transform: rotate(0.0deg); }
+      10% { transform: rotate(14.0deg); }
+      20% { transform: rotate(-8.0deg); }
+      30% { transform: rotate(14.0deg); }
+      40% { transform: rotate(-4.0deg); }
+      50% { transform: rotate(10.0deg); }
+      60% { transform: rotate(0.0deg); }
+      100% { transform: rotate(0.0deg); }
+    }
+
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .container {
+      --color-main: #5452ee;
+      --color-primary: #e73c7e;
+      --color-secondary: #23a6d5;
+      --color-tertiary: #ffff;
+
+      width: 100%;
+      height: 150px;
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+
+      <!-- font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; -->
+      position: relative;
+      overflow: hidden;
+    }
+
+    .container h1 {         
+        font-family: "Dancing Script";
+      <!-- color: ##fafafa; /* Color del texto */ -->
+      text-shadow: 
+          2px 2px 0 #bfbfbf,  /* Sombra de alto relieve */
+          0 0 15px rgba(255, 255, 255, 0.8); /* Sombra adicional para un efecto de relieve */
+      }
+
+    .hi {
+      animation: hi 1.5s linear -0.5s infinite;
+      display: inline-block;
+      transform-origin: 70% 70%;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .container {
+        --color-main: #F15BB5;
+        --color-primary: #24b0ef;
+        --color-secondary: #4526f6;
+        --color-tertiary: #f6f645;
+      }
+    }
+
+    @media (prefers-reduced-motion) {
+      .container {
+        animation: none;
+      }
+<!-- 
+      .hi {
+        animation: none;
+      } -->
+    }
+
+    .waves {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 100px;
+      min-height: 50px;
+      max-height: 100px;
+      border-radius: 25px;
+    }
+
+    .parallax > use {
+      animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;
+    }
+
+    .parallax > use:nth-child(1) {
+      animation-delay: -2s;
+      animation-duration: 7s;
+    }
+
+    .parallax > use:nth-child(2) {
+      animation-delay: -3s;
+      animation-duration: 10s;
+    }
+
+    .parallax > use:nth-child(3) {
+      animation-delay: -4s;
+      animation-duration: 13s;
+    }
+
+    .parallax > use:nth-child(4) {
+      animation-delay: -5s;
+      animation-duration: 20s;
+    }
+
+    @keyframes move-forever {
+      0% { transform: translate3d(-90px, 0, 0); }
+      100% { transform: translate3d(85px, 0, 0); }
+    }
+  </style>
+
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+      <h1>Hi, I'm Frank Yesid <div class="hi">👋</div></h1>
+    </div>
+  </foreignObject>
+
+  <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto">
+    <defs>
+      <path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 z" />
+    </defs>
+    <g class="parallax">
+      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="1" fill="rgba(160, 149, 202, 0.4)" />
+      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="2" fill="rgba(160, 149, 202, 0.3)" />
+      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="3" fill="rgba(78, 12, 165, 0.1)" />
+      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
+    </g>
+  </svg>
+</svg>
