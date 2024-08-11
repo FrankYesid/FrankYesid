@@ -3,8 +3,8 @@
   <!-- <img src="Imag/Portada_gif.svg" style="width: 100%;" alt="Click to see the source"> -->
 <!-- </div> -->
 <div style="width: 100%;">  
-  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_gif.svg" target="_blank">  
-    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_gif.svg" style="width: 100%;" alt="Click to see the source">  
+  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" target="_blank">  
+    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source">  
   </a>  
 </div>  
 

@@ -4,6 +4,7 @@
   <!-- <image href="giphy.gif" width="100%" height="150px"  preserveAspectRatio="none" /> -->
   <!-- <rect width="100%" height="100%" fill="black" />   -->
   <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="120%" preserveAspectRatio="xMidYMid meet"/>
+  <!-- <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" alt="gif" width="300" height="540"> -->
 
   <style>
     @keyframes hi {
