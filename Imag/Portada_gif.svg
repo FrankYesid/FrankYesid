@@ -3,7 +3,7 @@
   <!-- Incluir el GIF como imagen de fondo -->
   <!-- <image href="giphy.gif" width="100%" height="150px"  preserveAspectRatio="none" /> -->
   
-  <image xlink:href="https://static.wixstatic.com/media/be3eb0_ee17d639f8634b2ba6a3ac49486fda08~mv2.gif" width="100%" height="150px" preserveAspectRatio="none" />
+  <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="150px" preserveAspectRatio="none" />
 
   <style>
     @keyframes hi {
@@ -35,9 +35,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      color: white;
-
-      <!-- font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; -->
+      color: white;      
       position: relative;
       overflow: hidden;
     }
@@ -69,10 +67,7 @@
       .container {
         animation: none;
       }
-<!-- 
-      .hi {
-        animation: none;
-      } -->
+
     }
 
     .waves {
