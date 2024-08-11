@@ -2,11 +2,7 @@
   <!-- <img src="Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source"> -->
   <!-- <img src="Imag/Portada_gif.svg" style="width: 100%;" alt="Click to see the source"> -->
 <!-- </div> -->
-<div style="width: 100%;">  
-  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_gif.svg" target="_blank">  
-    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_gif.svg" style="width: 100%;" alt="Click to see the source">  
-  </a>  
-</div>  
+[Ver SVG Portada](https://github.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
