@@ -2,8 +2,8 @@
 <svg width="100%" height="150px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Incluir el GIF como imagen de fondo -->
   <!-- <image href="giphy.gif" width="100%" height="150px"  preserveAspectRatio="none" /> -->
-  
-  <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="150px" preserveAspectRatio="none" />
+  <!-- <rect width="100%" height="100%" fill="black" />   -->
+  <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="120%" preserveAspectRatio="xMidYMid meet"/>
 
   <style>
     @keyframes hi {
@@ -121,10 +121,10 @@
       <path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 z" />
     </defs>
     <g class="parallax">
-      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="1" fill="rgba(160, 149, 202, 0.4)" />
-      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="2" fill="rgba(160, 149, 202, 0.3)" />
-      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="3" fill="rgba(78, 12, 165, 0.1)" />
-      <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
+      <use transform="matrix(1,0,0,1,14,4)" xlink:href="#gentle-wave" x="48" y="1" fill="rgba(160, 149, 202, 0.4)" />
+      <use transform="matrix(1,0,0,1,14,4)" xlink:href="#gentle-wave" x="48" y="2" fill="rgba(160, 149, 202, 0.3)" />
+      <use transform="matrix(1,0,0,1,14,4)" xlink:href="#gentle-wave" x="48" y="3" fill="rgba(78, 12, 165, 0.1)" />
+      <use transform="matrix(1,0,0,1,14,4)" xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
     </g>
   </svg>
 </svg>
