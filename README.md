@@ -1,7 +1,7 @@
 <div style="width: 100%;">  
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" target="_blank">  
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source">  
-    <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" height="30" width="40" x="220" y="120"/></a>    
+    <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" height="30" width="40" x="220" y="520"/></a>    
   </a>  
 </div>  
 
