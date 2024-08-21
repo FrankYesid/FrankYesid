@@ -132,12 +132,23 @@
 
 <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
+    <!-- <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" /> -->
 </p>
 
-## 🎵 Ahora escuchando en Spotify
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&redirect=true)
+  <table>
+    <tr>
+      <td>
+        <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
+      </td>
+      <td>
+        ## 🎵 Ahora escuchando en Spotify
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- <p align="center">
