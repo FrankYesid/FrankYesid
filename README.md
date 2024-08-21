@@ -135,6 +135,10 @@
     <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 
+## 🎵 Ahora escuchando en Spotify
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=franyezid92&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=franyezid92&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+
 <!-- <p align="center">
   <a href="https://www.tublian.com/profile/FrankYesid?ss=true">
     <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/FrankYesid?type=with_score">
