@@ -1,23 +1,9 @@
-<!-- <div style="width: 100%;">  
+<div style="width: 100%;">  
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" target="_blank">  
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source">  
   </a>  
-</div>   -->
+</div>  
 
-<div class="container">      
-  <svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    rect width="100" height="100" fill="lightgrey">
-  </svg>
-
-  <!-- Icons -->
-  <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank" class="icon linkedin">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/fran_yezid" target="_blank" class="icon instagram">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
