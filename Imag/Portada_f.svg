@@ -138,18 +138,5 @@
       <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
     </g>
   </svg>
-/* 
-  <!-- Agregar iconos de redes sociales --> */
-  /* <a xlink:href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank"> */
-    /* <image height="30" width="40"x="220" y="120" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" /> */
-    /* <image x="220" y="120" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> */
-  /* </a> */
   
-  /* <a xlink:href="https://instagram.com/fran_yezid" target="_blank">
-    <image x="250" y="120" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  </a>
-  
-  <a xlink:href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn" target="_blank">
-    <image x="280" y="120" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-  </a> */
 </svg>
