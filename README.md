@@ -130,16 +130,16 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 
-</p> -->
+</p>
 
 <p align="center">
   <table align="center">
     <tr>
       <td align="center">
-        <img width="450px" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true" />
+        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
       </td>
       <td align="center">
         <h3> 🎵 Ahora escuchando en Spotify </h3>
@@ -152,9 +152,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" height="169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://www.tublian.com/profile/FrankYesid?ss=true">
