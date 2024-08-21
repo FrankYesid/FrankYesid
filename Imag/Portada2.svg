@@ -119,7 +119,7 @@
     
   </style>  
 
-   <foreignObject width="100%" height="100%">
+   <foreignObject width="100%" height="200px">
     <div xmlns="http://www.w3.org/1999/xhtml" class="container">
       <h1>Hi, I'm Frank Yesid <div class="hi">👋</div></h1>
     </div>

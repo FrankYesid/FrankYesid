@@ -9,6 +9,7 @@
             </stop>  
         </linearGradient>  
     </defs>  
+       
   <rect x="0" y="0%" width="100%" height="100%" fill="url(#animatedGradient)" />
   
   <style>
@@ -121,13 +122,23 @@
     }
   </style>
 
+  <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/">
+      <image x="220" y="5" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a>
+  <a href="https://instagram.com/fran_yezid">
+      <image x="245" y="5" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  </a>
+  <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn">
+      <image x="270" y="5" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
+  </a>
+
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" class="container">
       <h1>Hi, I'm Frank Yesid <div class="hi">👋</div></h1>
     </div>
   </foreignObject>
 
-  <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto">
+  /* <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 8 150 28" preserveAspectRatio="none" shape-rendering="auto"> */
     <defs>
       <path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 z" />
     </defs>
@@ -137,16 +148,7 @@
       <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="3" fill="rgba(78, 12, 165, 0.1)" />
       <use transform="matrix(1,0,0,1,0,0)" xlink:href="#gentle-wave" x="48" y="4" fill="rgba(78, 12, 165, 0.2)" />
     </g>
-  </svg>
-  
-  <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/">
-      <image x="220" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a>
-  <a href="https://instagram.com/fran_yezid">
-      <image x="245" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  </a>
-  <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn">
-      <image x="270" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-  </a>
+  /* </svg> */
+
 
 </svg>
