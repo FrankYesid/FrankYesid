@@ -50,9 +50,9 @@
 
     .container h1 {         
         font-family: "Dancing Script";
-      <!-- color: ##fafafa; /* Color del texto */ -->
+      <!-- color: #fafafa; /* Color del texto */ -->
       text-shadow: 
-          2px 2px 0 #bfbfbf,  /* Sombra de alto relieve */
+          2px 1px 0 #bfbfbf,  /* Sombra de alto relieve */
           0 0 15px rgba(255, 255, 255, 0.8); /* Sombra adicional para un efecto de relieve */
       }
 
@@ -139,8 +139,10 @@
     </g>
   </svg>
   
-   <a xlink:href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
-    <image x="220" y="120" width="20" height="20" xlink:href="https://github.com/FrankYesid/FrankYesid/blob/main/Imag/linkedin.svg" />
+  <a xlink:href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
+    
+    <image x="220" y="125" width="20" height="20" xlink:href="Imag/linkedin.png" />
+  
   </a>
 
 </svg>
