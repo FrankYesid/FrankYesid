@@ -142,6 +142,7 @@
         <img align="center" width="300px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
       </td>
       <td>
+      <h2> ## 🎵 Ahora escuchando en Spotify </h2>
         <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&redirect=true">
           <img align="center" width="300px" height="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
         </a>
