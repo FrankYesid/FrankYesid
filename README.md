@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
+Data Scientist with experience in data analysis and development of predictive models. In addition, I have skills in research and development of machine learning algorithms. My background in Electronic Engineering has allowed me to manage projects.
+
 - 📫 How to reach me **fyzapatac@unal.edu.co**
 
 <h3 align="left">Connect with me:</h3>
