@@ -129,19 +129,7 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-<p align="center">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
-        </picture>
-</p>
+
 
 <p align="center">
   <table align="center">
@@ -195,11 +183,35 @@ Data Scientist with experience in data analysis and development of predictive mo
 </p>
 
 
+
 <p align="center">
-  <!-- <img height="150" width="150" src="assets/left.webp"> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FrankYesid&theme=dark&hide_border=true&theme=transparent"/>
-  <!-- <img height="150" width="150" src="assets/right.webp"> -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
+        </picture>
+      </td>
+      <td align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FrankYesid&theme=dark&hide_border=true&theme=transparent"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
+<!-- <p align="center">
+  <img height="150" width="150" src="assets/left.webp"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FrankYesid&theme=dark&hide_border=true&theme=transparent"/>
+  <img height="150" width="150" src="assets/right.webp"> 
+</p> -->
 
 
 
