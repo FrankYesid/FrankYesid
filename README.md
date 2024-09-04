@@ -129,24 +129,8 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-<style>
-        /* Estilo para el modo claro */
-        @media (prefers-color-scheme: light) {
-            .github-stats img {
-                background-color: #ffffff; /* Fondo blanco para modo claro */
-                filter: invert(0%);
-            }
-        }
+[![FrankYesid](https://github-readme-stats.vercel.app/api/pin/?username=FrankYesid&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-        /* Estilo para el modo oscuro */
-        @media (prefers-color-scheme: dark) {
-            .github-stats img {
-                background-color: #000000; /* Fondo negro para modo oscuro */
-                filter: invert(100%);
-            }
-        }
-    </style>
-    
    <p align="center" class="github-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
     </p>
