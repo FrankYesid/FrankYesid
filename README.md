@@ -184,7 +184,7 @@ Data Scientist with experience in data analysis and development of predictive mo
             media="(prefers-color-scheme: dark)"
           />
          <source
-            srcset="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&theme=transparent"
+            srcset="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
           <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
