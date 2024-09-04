@@ -129,8 +129,7 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-<tr>
-    <td align="center">
+<p align="center">
         <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
@@ -142,8 +141,7 @@ Data Scientist with experience in data analysis and development of predictive mo
           />
           <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
         </picture>
-   </td>
-</tr>
+</p>
 
 <p align="center">
   <table align="center">
