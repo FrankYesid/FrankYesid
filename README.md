@@ -129,12 +129,18 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-[![FrankYesid](https://github-readme-stats.vercel.app/api/pin/?username=FrankYesid&repo=github-readme-stats)](https://github.com/FrankYesid/github-readme-stats)
 
-   <p align="center" class="github-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrankYesid&hide=contribs&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    </p>
-    
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
+</picture>
 
 <p align="center">
   <table align="center">
