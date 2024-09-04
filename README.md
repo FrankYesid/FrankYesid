@@ -129,17 +129,21 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
-</picture>
+<tr>
+    <td align="center">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
+        </picture>
+   </td>
+</tr>
 
 <p align="center">
   <table align="center">
@@ -172,9 +176,25 @@ Data Scientist with experience in data analysis and development of predictive mo
   <img src="Imag/Portada.svg" style="width: 100%;" alt="Click to see the source">
 </div> -->
 
-<p align="center">
+<tr>
+    <td align="center">
+        <picture>
+          <source
+            srcset="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+         <source
+            srcset="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&theme=transparent"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
+        </picture>
+   </td>
+</tr>     
+<!-- <p align="center">          
   <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15">
 </p>
+-->
 
 <p align="center">
   <!-- <img height="150" width="150" src="assets/left.webp"> -->
