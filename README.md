@@ -129,15 +129,13 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankYesid&repo=github-readme-stats)](https://github.com/FrankYesid/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
@@ -150,7 +148,7 @@ Data Scientist with experience in data analysis and development of predictive mo
         <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
       </td>
       <td align="center">
-        <h3> 🎵 Ahora escuchando en Spotify </h3>
+        <h3> 🎵 Now play Spotify </h3>
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img width="450px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
         </a>
