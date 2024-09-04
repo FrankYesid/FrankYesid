@@ -129,7 +129,7 @@ Data Scientist with experience in data analysis and development of predictive mo
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankYesid&repo=github-readme-stats)](https://github.com/FrankYesid/github-readme-stats)
 
 <picture>
   <source
