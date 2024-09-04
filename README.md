@@ -176,7 +176,7 @@ Data Scientist with experience in data analysis and development of predictive mo
   <img src="Imag/Portada.svg" style="width: 100%;" alt="Click to see the source">
 </div> -->
 
-<tr>
+<!-- <tr>
     <td align="center">
         <picture>
           <source
@@ -190,15 +190,16 @@ Data Scientist with experience in data analysis and development of predictive mo
           <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true" />
         </picture>
    </td>
-</tr>     
-<!-- <p align="center">          
-  <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15">
+</tr>      -->
+
+<p align="center">          
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15&theme=transparent">
 </p>
--->
+
 
 <p align="center">
   <!-- <img height="150" width="150" src="assets/left.webp"> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FrankYesid&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=FrankYesid&theme=dark&hide_border=true&theme=transparent"/>
   <!-- <img height="150" width="150" src="assets/right.webp"> -->
 </p>
 
