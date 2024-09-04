@@ -149,7 +149,7 @@ Data Scientist with experience in data analysis and development of predictive mo
   <table align="center">
     <tr>
       <td align="center">
-        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&theme=tokyonight" />
+        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&count_private=true&layout=compact&&theme=transparent" />
       </td>
       <td align="center">
         <h3> 🎵 Now play Spotify </h3>
@@ -193,7 +193,7 @@ Data Scientist with experience in data analysis and development of predictive mo
 </tr>      -->
 
 <p align="center">          
-  <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&theme=darkhub&column=-1&margin-w=15&theme=transparent">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&column=-1&margin-w=15&theme=transparent">
 </p>
 
 
