@@ -1,10 +1,20 @@
-<div style="width: 100%;">  
+<!-- <div style="width: 100%;">  
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" target="_blank">  
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source">  
     <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="120%" preserveAspectRatio="xMidYMid meet"/>
   </a>  
-</div>  
+</div>   -->
 
+<table>
+  <tr>
+    <td style="position: relative;">
+      <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" alt="Background GIF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;">
+      <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" target="_blank">
+        <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/Portada_f.svg" style="width: 100%;" alt="Click to see the source">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
