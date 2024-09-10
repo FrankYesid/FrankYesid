@@ -4,7 +4,7 @@
     <image xlink:href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" width="100%" height="120%" preserveAspectRatio="xMidYMid meet"/>
   </a>  
 </div>   -->
-
+<!-- 
 <table>
   <tr>
     <td style="position: relative;">
@@ -14,7 +14,13 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+
+<div style="width: 100%;">  
+  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" target="_blank">  
+    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" style="width: 100%;" alt="Click to see the source">  
+  </a>  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankyesid&label=Profile%20views&color=0e75b6&style=flat" alt="frankyesid" /> </p>
 
