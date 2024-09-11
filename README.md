@@ -15,8 +15,11 @@
     </td>
   </tr>
 </table> -->
-
-<img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" style="width: 100%;" alt="Background GIF">
+<div style="width: 100%;">  
+  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" target="_blank">  
+    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" style="width: 100%;" alt="Background GIF">  
+  </a>  
+</div>
 
 
 <!-- <div style="width: 100%;">  
