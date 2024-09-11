@@ -15,20 +15,26 @@
     </td>
   </tr>
 </table> -->
-<div style="width: 100%;">  
+<div style="position: relative; width: 100%;">  
+  <!-- GIF de fondo -->
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" target="_blank">  
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Imag/gif_AI.gif" style="width: 100%;" alt="Background GIF">  
   </a>  
-  <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/">
-      <image x="220" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-  </a>
-  <a href="https://instagram.com/fran_yezid">
-      <image x="245" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-  </a>
-  <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn">
-      <image x="270" y="125" width="20" height="20" xlink:href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-  </a>  
+
+  <!-- Contenedor de las redes sociales -->
+  <div style="position: absolute; bottom: 10px; right: 10px;">
+    <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/fran_yezid" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
+    </a>
+    <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" alt="Discord" />
+    </a>  
+  </div>
 </div>
+
 
 
 <!-- <div style="width: 100%;">  
