@@ -13,6 +13,7 @@ env/
 .vscode/
 .idea/
 *.sublime-workspace
+Imag/
 
 # Dependencias
 Pipfile
