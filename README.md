@@ -47,7 +47,7 @@
 
 Data Scientist with experience in data analysis and development of predictive models. In addition, I have skills in research and development of machine learning algorithms. My background in Electronic Engineering has allowed me to manage projects.
 
-- 📫 How to reach me **fyzapatac@unal.edu.co**
+- 📫 How to reach me **fyzapatac@gmail.com**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
