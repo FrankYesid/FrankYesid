@@ -1,0 +1,34 @@
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+env/
+*.env
+
+# Configuración del IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Dependencias
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Archivos de logs y caché
+logs/
+*.log
+debug.log
+
+# Archivos de bases de datos
+*.sqlite3
+*.db
+
+# Archivos de credenciales
+*.key
+*.pem
+*.json
