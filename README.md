@@ -170,7 +170,6 @@ Data Scientist with experience in data analysis and development of predictive mo
   </tr>
 </table>
 
-
 <h3 align="center">📊 Estadísticas de GitHub</h3>
  
 <div align="center">
