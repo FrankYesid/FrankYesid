@@ -182,7 +182,6 @@ Data Scientist with experience in data analysis and development of predictive mo
       <td align="center">
         <!-- WakaTime Stats -->
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FrankYesid&theme=transparent&hide_border=true" />
-
       </td>
     </tr>
   </table>
