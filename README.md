@@ -102,13 +102,62 @@ Data Scientist with experience in data analysis and development of predictive mo
 
 <br>
 
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<!-- Primera fila -->
 <table>
   <tr>
-    <td align="center"><b>Design</b></td>
-    <td align="center"><b>Operating Systems</b></td>
-    <td align="center"><b>Data Science</b></td>
-    <td align="center"><b>Databases</b></td>
-    <td align="center"><b>Computer Vision</b></td>
+    <td align="center"><b>📱 Mobile</b></td>
+    <td align="center"><b>🔌 Hardware</b></td>
+    <td align="center"><b>💻 Programming</b></td>
+    <td align="center"><b>🌐 Web Dev</b></td>
+    <td align="center"><b>🗂️ Version Control</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="Android"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" alt="Arduino"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
+      </a>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django"/>
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" width="50" alt="Flask"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Segunda fila -->
+<table>
+  <tr>
+    <td align="center"><b>🎨 Design</b></td>
+    <td align="center"><b>🧠 Data Science & ML</b></td>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center"><b>🖥️ OS</b></td>
+    <td align="center"><b>👁️ Computer Vision</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -123,16 +172,11 @@ Data Scientist with experience in data analysis and development of predictive mo
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.mathworks.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
       </a>
       <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
       </a>
       <a href="https://pytorch.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
@@ -162,12 +206,18 @@ Data Scientist with experience in data analysis and development of predictive mo
       </a>
     </td>
     <td align="center">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://opencv.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" alt="OpenCV"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
