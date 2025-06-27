@@ -175,12 +175,12 @@ Data Scientist with experience in data analysis and development of predictive mo
       <td align="center">
         <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&count_private=true&layout=compact&&theme=transparent" />
       </td>
-<!--       <td align="center">
+      <td align="center">
         <h3> 🎵 Now play Spotify </h3>
         <a href="https://github.com/kittinan/spotify-github-profile">
           <img width="450px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
         </a>
-      </td> -->
+      </td>
     </tr>
   </table>
 </p>
