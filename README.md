@@ -55,54 +55,6 @@ Data Scientist with experience in data analysis and development of predictive mo
 <a href="https://instagram.com/fran_yezid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran_yesid" height="30" width="40" /></a>
 <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="franyezid19:https://discord.gg/bf67nBCn" height="30" width="40" /></a>
 </p> -->
-<h3 align="left">🛠️ Languages and Tools</h3>
-
-<table>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td align="center"><b>Hardware</b></td>
-    <td align="center"><b>Languages</b></td>
-    <td align="center"><b>Web</b></td>
-    <td align="center"><b>Version Control</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="android"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" alt="arduino"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
-      </a>
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django"/>
-      </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" width="50" alt="Flask"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="left">🛠️ Languages and Tools</h3>
 
 <!-- Primera fila -->
 <table>
