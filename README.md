@@ -55,117 +55,119 @@ Data Scientist with experience in data analysis and development of predictive mo
 <a href="https://instagram.com/fran_yezid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran_yesid" height="30" width="40" /></a>
 <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="franyezid19:https://discord.gg/bf67nBCn" height="30" width="40" /></a>
 </p> -->
+<h3 align="left">🛠️ Languages and Tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<h2>Mobile Development</h2>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td align="center"><b>Hardware</b></td>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Web</b></td>
+    <td align="center"><b>Version Control</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="android"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" alt="arduino"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
+      </a>
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django"/>
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" width="50" alt="Flask"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h2>Hardware</h2>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-</p>
+<br>
 
-<h2>Programming Languages</h2>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Web Development</h2>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" alt="flask" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Version Control</h2>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Design</h2>
-<p align="left">
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="lightroom" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Operating Systems</h2>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Data Science and Machine Learning</h2>
-<p align="left">
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Data Science Tools</h2>
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Databases</h2>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>
-</p>
-
-<h2>Computer Vision</h2>
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td align="center"><b>Operating Systems</b></td>
+    <td align="center"><b>Data Science</b></td>
+    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>Computer Vision</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" alt="Illustrator"/>
+      </a>
+      <a href="https://www.photoshop.com/en" target="_blank">
+        <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" width="40" alt="Photoshop"/>
+      </a>
+      <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" width="40" alt="Lightroom"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mathworks.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
+      </a>
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+      </a>
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch"/>
+      </a>
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit Learn"/>
+      </a>
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn"/>
+      </a>
+      <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow"/>
+      </a>
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" alt="Jupyter"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/>
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+      </a>
+      <a href="https://www.oracle.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" alt="OpenCV"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
