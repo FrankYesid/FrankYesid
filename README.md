@@ -171,23 +171,21 @@ Data Scientist with experience in data analysis and development of predictive mo
 </table>
 
 
+<h3 align="center">📊 Estadísticas de GitHub</h3>
 
-
-<p align="center">
-  <table align="center">
+<div align="center">
+  <table>
     <tr>
       <td align="center">
-        <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&count_private=true&layout=compact&&theme=transparent" />
-      <!-- </td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&count_private=true&layout=compact&theme=transparent" width="400px" alt="Top Languages"/>
+      </td>
       <td align="center">
-        <h3> 🎵 Now play Spotify </h3>
-        <a href="https://github.com/kittinan/spotify-github-profile">
-          <img width="450px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=franyezid92&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
-        </a>
-      </td> -->
+        <!-- WakaTime Stats -->
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FrankYesid&hide_border=true&hide_progress=true&theme=transparent&hide_border=true" width="400px" alt="WakaTime Stats"/>
+      </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 <!-- <p align="center">
