@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table> -->
-<div style="position: relative; width: 100%; max-width: 800px; margin: auto;">
+<div style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
   <!-- GIF de fondo -->
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" target="_blank">
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" style="width: 100%; display: block;" alt="Background GIF">
