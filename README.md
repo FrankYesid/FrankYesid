@@ -220,7 +220,7 @@ Data Scientist with experience in data analysis and development of predictive mo
       </td>
       <td align="center">
         <!-- WakaTime Stats -->
-        <figure><embed src="https://wakatime.com/share/@FrankYesid/27cca8d7-d6ea-4e7b-938d-a06a07d4ec05.svg"></embed></figure>
+        <figure><embed src="https://wakatime.com/share/@FrankYesid/c631c984-411c-4723-be3e-01c6f12cd894.svg"></embed></figure>
       </td>
     </tr>
   </table>
