@@ -231,6 +231,7 @@ Data Scientist with experience in data analysis and development of predictive mo
         <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/88016351-d75c-45a7-9a67-d7d68a90b6b7.png" /></a>
       </td>
     </tr>
+    <a href="https://wakatime.com/badge/github/FrankYesid/Machine-Learning-ML-Guides"><img src="https://wakatime.com/badge/github/FrankYesid/Machine-Learning-ML-Guides.svg" alt="Machine-Learning-ML-Guides"></a>
   </table>
 </div>
 
