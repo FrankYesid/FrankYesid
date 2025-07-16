@@ -89,7 +89,7 @@ Data Scientist with experience in data analysis and development of predictive mo
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" alt="Django"/>
       </a>
       <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" width="50" alt="Flask"/>
+        <img src="https://img.icons8.com/?size=256&id=ewGOClUtmFX4&format=png" width="70" alt="Flask"/>
       </a>
     </td>
     <td align="center">
@@ -97,7 +97,7 @@ Data Scientist with experience in data analysis and development of predictive mo
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
       </a>
       <a href="https://gitlab.com/" target="_blank">
-        <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" alt="GitLab"/>
+        <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60" alt="GitLab"/>
       </a>
     </td>
   </tr>
@@ -151,13 +151,13 @@ Data Scientist with experience in data analysis and development of predictive mo
     </td>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL Server"/>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" alt="SQL Server"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" alt="MySQL"/>
       </a>
       <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="Oracle"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="60" alt="Oracle"/>
       </a>
     </td>
     <td align="center">
