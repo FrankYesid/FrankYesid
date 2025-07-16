@@ -216,11 +216,11 @@ Data Scientist with experience in data analysis and development of predictive mo
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&count_private=true&layout=compact&theme=transparent" width="400px" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&hide=html,css,scss&hide_border=true&langs_count=10&count_private=true&layout=compact&theme=transparent" width="700px" alt="Top Languages"/>
       </td>
       <td align="center">
         <!-- WakaTime Stats -->
-        <figure><embed src="https://wakatime.com/share/@FrankYesid/c631c984-411c-4723-be3e-01c6f12cd894.svg"></embed></figure>
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/88016351-d75c-45a7-9a67-d7d68a90b6b7.png" /></a>
       </td>
     </tr>
   </table>
