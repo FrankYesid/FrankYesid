@@ -19,7 +19,7 @@
   <!-- GIF de fondo -->
   <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" target="_blank">  
     <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" style="width: 100%;" alt="Background GIF">  
-  </a>  
+  
 
   <!-- Contenedor de las redes sociales -->
   <div style="position: absolute; bottom: 10px; right: 10px;">
@@ -33,6 +33,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" alt="Discord" />
     </a>  
   </div>
+  </a>  
 </div>
 
 
