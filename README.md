@@ -15,27 +15,34 @@
     </td>
   </tr>
 </table> -->
-<div style="position: relative; width: 100%;">  
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto;">
   <!-- GIF de fondo -->
-  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" target="_blank">  
-    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" style="width: 100%;" alt="Background GIF">  
-  
+  <a href="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" target="_blank">
+    <img src="https://raw.githubusercontent.com/FrankYesid/FrankYesid/main/Image/gif_AI.gif" style="width: 100%; display: block;" alt="Background GIF">
+  </a>
 
-  <!-- Contenedor de las redes sociales -->
-  <div style="position: absolute; bottom: 10px; right: 10px;">
+  <!-- Contenedor de redes sociales flotante -->
+  <div style="
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    display: flex;
+    gap: 10px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 8px 12px;
+    border-radius: 10px;
+  ">
     <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/fran_yezid" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
     </a>
-    <a href="https://discord.gg/franyezid19:https://discord.gg/bf67nBCn" target="_blank">
+    <a href="https://discord.gg/bf67nBCn" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" alt="Discord" />
-    </a>  
+    </a>
   </div>
-  </a>  
 </div>
-
 
 
 <!-- <div style="width: 100%;">  
