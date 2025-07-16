@@ -96,6 +96,9 @@ Data Scientist with experience in data analysis and development of predictive mo
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git"/>
       </a>
+      <a href="https://gitlab.com/" target="_blank">
+        <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" alt="GitLab"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -148,13 +151,13 @@ Data Scientist with experience in data analysis and development of predictive mo
     </td>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/>
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL Server"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
       </a>
       <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" alt="Oracle"/>
       </a>
     </td>
     <td align="center">
@@ -170,6 +173,43 @@ Data Scientist with experience in data analysis and development of predictive mo
   </tr>
 </table>
 
+<br>
+
+<!-- Tercera fila -->
+<table>
+  <tr>
+    <td align="center"><b>🐳 Containers</b></td>
+    <td align="center"><b>📊 BI & Analytics</b></td>
+    <td align="center"><b>🛡️ Security</b></td>
+    <td align="center"><b>🟢 Backend JS</b></td>
+    <!-- <td align="center"><b>🧩 Otros</b></td> -->
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lookerstudio.google.com/" target="_blank">
+        <img src="https://lookerstudio.google.com/favicon.ico" width="40" alt="Looker Studio"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://snyk.io/" target="_blank">
+        <img src="https://res.cloudinary.com/snyk/image/upload/snyk-mktg-brandui/brand-logos/default-solid-dark.svg" width="80" alt="Snyk"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+      </a>
+    </td>
+    <!-- <td align="center">—</td> -->
+  </tr>
+</table>
+
+
 <h3 align="center">📊 Estadísticas de GitHub</h3>
  
 <div align="center">
@@ -180,7 +220,7 @@ Data Scientist with experience in data analysis and development of predictive mo
       </td>
       <td align="center">
         <!-- WakaTime Stats -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FrankYesid&theme=transparent&hide_border=true" />
+        <figure><embed src="https://wakatime.com/share/@FrankYesid/27cca8d7-d6ea-4e7b-938d-a06a07d4ec05.svg"></embed></figure>
       </td>
     </tr>
   </table>
