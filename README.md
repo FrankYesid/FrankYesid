@@ -231,9 +231,14 @@ Data Scientist with experience in data analysis and development of predictive mo
         <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/88016351-d75c-45a7-9a67-d7d68a90b6b7.png" /></a>
       </td>
     </tr>
-    <a href="https://wakatime.com/badge/github/FrankYesid/Machine-Learning-ML-Guides"><img src="https://wakatime.com/badge/github/FrankYesid/Machine-Learning-ML-Guides.svg" alt="Machine-Learning-ML-Guides"></a>
   </table>
 </div>
+      
+- [Proyecto-deslizamiento](https://github.com/FrankYesid/Proyecto-deslizamiento)
+[![Proyecto-deslizamiento](https://wakatime.com/badge/user/7fdb5a4b-5cf2-4579-adf9-0c47475e41f9/project/f1a9c3e1-f9d7-4b61-945e-128f848db358.svg)](https://wakatime.com/badge/user/7fdb5a4b-5cf2-4579-adf9-0c47475e41f9/project/f1a9c3e1-f9d7-4b61-945e-128f848db358)
+
+- [Time](https://github.com/FrankYesid) [![Total Time](https://wakatime.com/badge/user/7fdb5a4b-5cf2-4579-adf9-0c47475e41f9.svg)](https://wakatime.com/@7fdb5a4b-5cf2-4579-adf9-0c47475e41f9)
+
 
 
 <!-- <p align="center">
