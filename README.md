@@ -99,7 +99,7 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 - **Landslide Risk Assessment Project**  
   Machine Learning applied to geotechnical risk analysis
-  👉 https://github.com/FrankYesid/Proyecto-deslizamiento  
+  👉 [https://github.com/FrankYesid/Proyecto-deslizamiento  ](https://github.com/FrankYesid/Proyecto_deslizamiento_v2)
 
 <p>
   <a href="https://wakatime.com">
