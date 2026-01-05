@@ -97,8 +97,8 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 ## 🚀 Featured Projects
 
-- **Proyecto Deslizamiento**  
-  Machine Learning aplicado al análisis de riesgo geotécnico  
+- **Landslide Risk Assessment Project**  
+  Machine Learning applied to geotechnical risk analysis
   👉 https://github.com/FrankYesid/Proyecto-deslizamiento  
 
 <p>
