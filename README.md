@@ -16,9 +16,6 @@
     <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28"/>
     </a>
-    <a href="https://instagram.com/fran_yezid" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="28"/>
-    </a>
     <a href="https://discord.gg/bf67nBCn" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="28"/>
     </a>
@@ -96,7 +93,7 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 ## 🚀 Featured Projects
 
 - **Proyecto Deslizamiento**  
-  Machine learning applied to geotechnical risk analysis  
+  Machine Learning aplicado al análisis de riesgo geotécnico  
   👉 https://github.com/FrankYesid/Proyecto-deslizamiento  
 
 <p>
@@ -110,8 +107,8 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 ## 🤝 Open to Collaboration
 
 I am open to collaborating on:
-- Machine Learning & AI projects  
-- Signal processing & scientific computing  
+- Machine Learning & Artificial Intelligence  
+- Signal Processing & Scientific Computing  
 - Applied research & data-driven systems  
 
-Feel free to reach out.
+Feel free to reach out via LinkedIn or email.
