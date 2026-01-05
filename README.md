@@ -47,29 +47,29 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 ## 🧰 Languages & Tools
 
 ### Programming & Data
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"></code>
 
 ### Machine Learning & AI
-<code><img height="22" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
-<code><img height="22" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="22" src="https://jupyter.org/assets/homepage/main-logo.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+<code><img height="40" src="https://jupyter.org/assets/homepage/main-logo.svg"></code>
 
 ### Data & Visualization
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
-<code><img height="22" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
+<code><img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></code>
 
 ### Backend & DevOps
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="22" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 
 ### Databases
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img height="22" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></code>
 
 ---
 
