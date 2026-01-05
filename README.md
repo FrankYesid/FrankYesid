@@ -73,9 +73,9 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankYesid&layout=compact&theme=transparent"/>
 </p>
@@ -86,7 +86,8 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&column=-1&margin-w=15&theme=transparent"/>
-</p>
+</p> -->
+
 
 ---
 
