@@ -73,7 +73,7 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 ---
 
-<!-- ## 📊 GitHub Stats -->
+## 📊 GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FrankYesid&show_icons=true&theme=transparent"/>
@@ -88,6 +88,10 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
   <img src="https://github-profile-trophy.vercel.app/?username=FrankYesid&column=-1&margin-w=15&theme=transparent"/>
 </p> -->
 
+<td align="center">
+        <!-- WakaTime Stats -->
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/88016351-d75c-45a7-9a67-d7d68a90b6b7.png" /></a>
+      </td>
 
 ---
 
