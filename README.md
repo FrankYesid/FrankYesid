@@ -16,9 +16,9 @@
     <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28"/>
     </a>
-    <a href="https://discord.gg/bf67nBCn" target="_blank">
+    <!-- <a href="https://discord.gg/bf67nBCn" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="28"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
