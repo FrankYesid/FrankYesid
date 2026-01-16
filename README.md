@@ -90,7 +90,7 @@ My background in **Electronic Engineering** allows me to design and deploy end-t
 
 <td align="center">
         <!-- WakaTime Stats -->
-        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/88016351-d75c-45a7-9a67-d7d68a90b6b7.png" /></a>
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@FrankYesid/741d5d94-7a0c-4ad9-bc9e-c194127f4dd1.png" /></a>
       </td>
 
 ---
