@@ -14,9 +14,6 @@
     padding: 8px 12px;
     border-radius: 10px;">
     
-    <!-- <a href="https://discord.gg/bf67nBCn" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="28"/>
-    </a> -->
   </div>
 </div>
 
