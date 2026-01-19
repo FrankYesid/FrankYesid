@@ -112,6 +112,7 @@ I am open to collaborating on:
 - Applied research & data-driven systems  
 
 Feel free to reach out via LinkedIn or email.
+
 <a href="https://www.linkedin.com/in/frank-yesid-zapata-casta%C3%B1o-524134238/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28"/>
     </a>
